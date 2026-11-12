@@ -1,0 +1,1 @@
+*/5 * * * * /home/vishal/tutorial-bash/diskwarn.sh 80
